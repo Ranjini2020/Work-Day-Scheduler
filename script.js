@@ -43,7 +43,7 @@ function initialStorageSetup() {
         var thisHour = parseInt($(this).attr("hour"));
         var taskDetail = {hour: thisHour, task: ""}
 
-        event.push(taskDetail);
+        events.push(taskDetail);
     });
 
     //after adding initial data, it's stored in local storage, named "eventalist"
