@@ -20,6 +20,7 @@ Saved events persist even when the user refresh the page.
 
 * The URL of the deployed application:
 
-* The URL of the GitHub repository: 
+* The URL of the GitHub repository: https://github.com/Ranjini2020/Work-Day-Scheduler
+
 
 
