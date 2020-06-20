@@ -40,7 +40,7 @@ function initialStorageSetup() {
 
     //Loop through each hour block in the DOM
     hourBlocks.each(function() {
-        var thisHour = parseInt($(this).aatr("hour"));
+        var thisHour = parseInt($(this).attr("hour"));
         var taskDetail = {hour: thisHour, task: ""}
 
         event.push(taskDetail);
