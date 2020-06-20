@@ -18,7 +18,7 @@ By clicking the 'save' icon, the text for that event is saved in local storage.
 Saved events persist even when the user refresh the page.
 
 
-* The URL of the deployed application:
+* The URL of the deployed application: https://ranjini2020.github.io/Work-Day-Scheduler/
 
 * The URL of the GitHub repository: https://github.com/Ranjini2020/Work-Day-Scheduler
 
