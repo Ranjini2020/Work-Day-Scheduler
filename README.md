@@ -5,7 +5,7 @@ This project creates a simple calendar application that allows the user to save 
 
 User can open this daily planner and add important events on it.
 In this way the user can manage his/her time effectively.
-AS AN employee with a busy schedule
+AS AN employee with a busy schedule, the planner helps them to be moe organized.
 
 
 ## Description

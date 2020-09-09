@@ -9,6 +9,7 @@ var events = [];
 
 //Setting up the current data variable
 var currentDate = moment().format("dddd, MMMM Do");
+var currentTime = moment().format('LT');
 
 //Setting up the current hour variable for the color code
 var currentHour = moment().format("H");
@@ -26,6 +27,8 @@ $(document).ready(function() {
 
     //Display current date at the top
     $("#currentDay").text(currentDate);
+    $("#currentTime").text(currentTime);
+
 
     //Retrive and display the events data if already stored in local storage
     displayStoredEvents();
